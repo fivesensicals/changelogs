@@ -14,6 +14,11 @@
  + Added No Spread
  + Added No Recoil
  + Added Unlock All
- + Added Infinite Ammo
  + Fixed Silent Aim Hook
  + Fixed Silent (b3407, b2944, b3570, b2699)
+
+ Logs/журналы изменений 1/15/25
+ + Added Support All FiveM Versions
+ + Added Anti Aim
+ + Added Kill Anti Aim
+ + Added Infinite Stamina UD
