@@ -22,3 +22,15 @@
  + Added Anti Aim
  + Added Kill Anti Aim
  + Added Infinite Stamina UD
+
+  Logs/журналы изменений 1/16/25
+ + Added Auto Strafe (W, D, S, A)
+ + Added Player List
+ + Added Player Info
+ + Added Teleport to Player
+ + Added Friend Button
+ + Added Copy Clothes
+ + Fixed Overlay Crash
+ + Fixed Uefi Screen
+ + Fixed Uefi injection
+ 
